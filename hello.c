@@ -13,5 +13,6 @@ int main()
 {
     printf("hello world");
     printf("Lets work on a mini project using C Language");
+    printf("hi");
 
 }
