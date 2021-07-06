@@ -1,8 +1,19 @@
+/**
+ * @file main.c
+ * @author Karthika (srikarthi2017@gmail.com)
+ * @brief 
+ * @version 0.1
+ * @date 2021-07-06
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include<stdio.h>
 #include<conio.h>
 #include<ctype.h>
 #include<stdlib.h>
 #include<string.h>
+
 
 
 /*void show_record();
