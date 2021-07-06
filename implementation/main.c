@@ -6,7 +6,7 @@
 #include "show_record.c"
 #include "reset_score.c"
 #include "help.c"
-#include "edit_score.c"
+
 
 /*void show_record();
 void reset_score();
