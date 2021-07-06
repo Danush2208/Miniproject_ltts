@@ -1,3 +1,14 @@
+
+#include"quiz.h"
+#include<stdio.h>
+#include<conio.h>
+#include<ctype.h>
+#include<stdlib.h>
+#include<string.h>
+//float score;
+//char choice;
+//char playername[20];
+//int countr,r,r1,count,i,n;
 void reset_score()
     {
 	system("cls");
