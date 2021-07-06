@@ -3,9 +3,7 @@
 #include<ctype.h>
 #include<stdlib.h>
 #include<string.h>
-#include "show_record.c"
-#include "reset_score.c"
-#include "help.c"
+
 
 
 /*void show_record();
