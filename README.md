@@ -20,4 +20,4 @@ It is free of cost and meant for entertainment and they also give prizes.
 Online Quiz is organized to examine the wisdom or identify a person’s characteristics.
 Most of the companies employ online quiz as an effective manner of examining a prospective employee’s wisdom without that person’s personal presence.
 
-NOTE: 
+
