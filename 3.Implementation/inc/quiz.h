@@ -10,5 +10,15 @@
  */
 #ifndef __QUIZ_H__
 #define __QUIZ_H__
-#include <stdio.h>
-#include <stdlib.h>
+//#include <stdio.h>
+//#include <stdlib.h>
+extern int countr,r,r1,count,i,n;
+extern float score;
+extern char choice;
+extern char playername[20];
+void edit_score(float,char[]);
+void help();
+void reset_score();
+void show_record();
+#endif
+

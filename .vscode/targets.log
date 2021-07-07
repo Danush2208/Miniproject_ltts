@@ -8,7 +8,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This program built for i386-pc-mingw32
  
 
-# Make data base, printed on Sun Jul 04 09:04:29 2021
+# Make data base, printed on Wed Jul 07 16:14:10 2021
 
 # Variables
 
@@ -34,7 +34,8 @@ HOMEDRIVE = C:
 CURDIR := c:/Users/Hp/OneDrive/Desktop/test/Miniproject_ltts
 # default
 SHELL := sh.exe
-# environment
+# environmen 
+t
 WINDIR = C:\windows
 # environment
 VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
@@ -42,8 +43,8 @@ VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupp
 ONEDRIVE = C:\Users\Hp\OneDrive
 # environment
 PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
-# makefile (from `makefile', line 1)
-MAKEFILE_LIST :=  makefile
+# makefile
+MAKEFILE_LIST := 
 # environment
 VSCODE_NODE_CACHED_DATA_DIR = C:\Users\Hp\AppData\Roaming\Code\CachedData\507ce72a4466fbb27b715c3722558bb15afa9f48
 # environment
@@ -55,7 +56,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-dbfdcc01-3d8f-4692-aa05-608016c8eb42-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-018cce95-c827-4824-8b83-34087673c7a4-sock
 # environment
 VSCODE_CWD = C:\Users\Hp\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -83,7 +84,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_16236_JKALNAHGBVRCJTDD
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_19772_PECEJYLLYZSFZZOK
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -116,7 +117,8 @@ USERDOMAIN = DESKTOP-DR8N16S
 MAKE = $(MAKE_COMMAND)
 # default
 MAKECMDGOALS := all
-# default
+# defau 
+lt
 MAKE_VERSION := 3.81
 # makefile
 .DEFAULT_GOAL := 
@@ -189,13 +191,14 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-PROCESSOR_LEVEL = 6
+PROCESSOR_LE 
+VEL = 6
 # environment
-VSCODE_PID = 16236
+VSCODE_PID = 19772
 # environment
 USERDOMAIN_ROAMINGPROFILE = DESKTOP-DR8N16S
 # variable set hash-table stats:
-# Load=91/1024=9%, Rehash=0, Collisions=9/110=8%
+# Load=91/1024=9%, Rehash=0, Collisions=9/108=8%
 
 # Pattern-specific Variable Values
 
@@ -204,13 +207,13 @@ USERDOMAIN_ROAMINGPROFILE = DESKTOP-DR8N16S
 # Directories
 
 # C:\windows\System32\WindowsPowerShell\v1.0\ (key C:/windows/System32/WindowsPowerShell/v1.0/, mtime 1610389274): 30 files, no impossibilities.
-# C:\windows\System32\Wbem (key C:/windows/System32/Wbem, m 
-time 1620986328): 154 files, no impossibilities.
-# . (key c:/Users/Hp/OneDrive/Desktop/test/Miniproject_ltts, mtime 1625318476): 13 files, no impossibilities.
+# C:\windows\System32\Wbem (key C:/windows/System32/Wbem, mtime 1620986328): 154 files, no impossibilities.
+# . (key c:/Users/Hp/OneDrive/Desktop/test/Miniproject_ltts, mtime 1625592074): 15 files, no impossibilities.
 # C:\Program Files (x86)\Dr. Memory\bin\ (key C:/Program Files (x86)/Dr. Memory/bin/, mtime 1624291094): 28 files, no impossibilities.
 # C:\MinGW\bin (key C:/MinGW/bin, mtime 1624339634): 144 files, no impossibilities.
 # C: could not be stat'd.
-# C:\Users\Hp\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/Hp/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1624287380): 4 files, no impossibilities.
+# C:\Users\Hp\AppData\Local\Programs\Microsoft VS Code\bin (key C:/Users/Hp/AppData/Local/Programs/Microsoft VS Code/bin, mtime 1624287380): 4  
+files, no impossibilities.
 # C:\windows\System32\OpenSSH\: could not be stat'd.
 # C:\windows (key C:/windows, mtime 1625300144): 114 files, no impossibilities.
 # C:\Users\Hp\AppData\Local\Microsoft\WindowsApps (key C:/Users/Hp/AppData/Local/Microsoft/WindowsApps, mtime 1625217785): 18 files, no impossibilities.
@@ -218,7 +221,7 @@ time 1620986328): 154 files, no impossibilities.
 # C:\windows\system32 (key C:/windows/system32, mtime 1625305259): 2763 files, no impossibilities.
 # C:\Program Files (x86)\GnuWin32\bin (key C:/Program Files (x86)/GnuWin32/bin, mtime 1624336772): 5 files, no impossibilities.
 
-# 3281 files, no impossibilities in 13 directories.
+# 3283 files, no impossibilities in 13 directories.
 
 # Implicit Rules
 
@@ -243,10 +246,11 @@ all:
 
 # Not a target:
 makefile:
+#  A default, MAKEFILES, or -include/sinclude makefile.
 #  Implicit rule search has been done.
-#  Last modified 2021-07-02 14:34:59
+#  File does not exist.
 #  File has been updated.
-#  Successfully updated.
+#  Failed to be updated.
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
@@ -256,20 +260,30 @@ makefile:
 #  Modification time never checked.
 #  File has not been updated.
 
+# Not a target:
+GNUmakefile:
+#  A default, MAKEFILES, or -include/sinclude makefile.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has been updated.
+#  Failed to be updated.
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
 # files hash-table stats:
-# Load=4/1024=0%, Rehash=0, Collisions=0/15=0%
+# Load=5/1024=0%, Rehash=0, Collisions=0/16=0%
 # VPATH Search Paths
 
 # No `vpath' search paths.
 
 # No general (`VPATH' variable) search path.
 
-# # of strings in strcache: 1
-# # of strcache buffers: 1
-# strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
-# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+# # of strings in strcache: 0
+# # of strcache buffers: 0
+# strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
+# strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Sun Jul 04 09:04:29 2021
+# Finished Make data base on Wed Jul 07 16:14:10 2021
 
  
 make.exe: *** No rule to make target `all'.  Stop.

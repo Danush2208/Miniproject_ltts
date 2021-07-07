@@ -7,24 +7,32 @@ else
    ifeq ($(shell uname), Linux)
       RM = rm -rf
       FixPath = $1
-	  EXEC = out
+	  #EXEC = out
    endif
 endif
 
-PROJ_NAME = Stack
-TEST_PROJ_NAME = Test_$(PROJ_NAME)
+PROJ_NAME = quiz
+TEST_PROJ_NAME = $(PROJ_NAME)
 
 BUILD_DIR = Build
 
-SRC = stack.c
+SRC = src/main.c src/help.c src/edit_score.c src/reset_score.c src/show_record.c
+INC = inc/quiz.h 
+#PROJECT_OUTPUT = ./a.exe
 
-TEST_SRC = test_stack.c\
+#all: $(SRC) $(INC)
+#gcc $(SRC) -O $(PROJECT_OUTPUT)
+
+#run:$(PROJ_NAME)
+#./$(PROJECT_OUTPUT)
+
+TEST_SRC = testfile/TEST_quiz.c\
 unity/unity.c
 
-INC = -Iunity
+#INC = -Iunity
 
-all: $(SRC) $(TEST_SRC) $(BUILD_DIR)
-	gcc $(SRC) $(TEST_SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
+all: $(SRC) $(BUILD_DIR)
+	gcc $(SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
 
 run: all
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
