@@ -17,7 +17,8 @@ TEST_PROJ_NAME = $(PROJ_NAME)
 BUILD_DIR = Build
 
 SRC = src/main.c src/help.c src/edit_score.c src/reset_score.c src/show_record.c
-INC = inc/quiz.h 
+INC = inc/quiz.h\
+unity/unity.h unity/unity_internals.h
 #PROJECT_OUTPUT = ./a.exe
 
 #all: $(SRC) $(INC)
