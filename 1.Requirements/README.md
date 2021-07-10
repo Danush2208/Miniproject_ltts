@@ -1,5 +1,7 @@
 QUIZ GAME
 
+<img width="274" alt="quiz" src="https://user-images.githubusercontent.com/86143586/125155745-872e8080-e17f-11eb-9f92-f4af4e5b5ff0.PNG">
+
 
 INTRODUCTION
 
