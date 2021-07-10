@@ -53,3 +53,17 @@ How
 
 Run the application, fill the inputs asked on the console and get your brains in action and check if you are good at GK;)
 
+HIGH LEVEL REQUIREMENTS:
+
+
+![high level](https://user-images.githubusercontent.com/86143586/125168320-a995bd80-e1c2-11eb-8ffe-966cbe364830.JPG)
+
+
+
+LOW LEVEL REQUIREMENTS:
+
+
+![low level](https://user-images.githubusercontent.com/86143586/125168323-ab5f8100-e1c2-11eb-8c2c-440bae7cde11.JPG)
+
+
+
