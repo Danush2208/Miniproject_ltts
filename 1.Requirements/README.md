@@ -24,4 +24,3 @@ Most of the companies employ online quiz as an effective manner of examining a p
 
 
 
-

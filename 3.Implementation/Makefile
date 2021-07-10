@@ -26,7 +26,7 @@ INC = inc/quiz.h
 #run:$(PROJ_NAME)
 #./$(PROJECT_OUTPUT)
 
-TEST_SRC = testfile/TEST_quiz.c\
+#TEST_SRC = testfile/TEST_quiz.c\
 unity/unity.c
 
 #INC = -Iunity
