@@ -34,17 +34,22 @@ Most of the companies employ online quiz as an effective manner of examining a p
 4W's and 1'H
 
 Who
+
 For anyone who is intrested in improving their knowledge and checking their general knowlege.
 
 What
+
 Mobile softwares can use this code to in build this fun game and also in school competitions etc.
 
 Where
+
 School Competition and in mobile applications and in websites.
 
 When
+
 this application helps in track of keeping the report and record your data has manually it becomes a tedeous job to do so.
 
 How
+
 Run the application, fill the inputs asked on the console and get your brains in action and check if you are good at GK;)
 
