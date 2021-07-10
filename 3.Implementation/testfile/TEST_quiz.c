@@ -7,7 +7,8 @@ void tearDown(){}
 void test_edit_score(void)
 {
   TEST_ASSERT_EQUAL(res,edit_score(score,plnm));
-
+  
+  
 
   //TEST_ASSERT_EQUAL(120, factorial(5));
   //TEST_ASSERT_EQUAL(720, factorial(6));
