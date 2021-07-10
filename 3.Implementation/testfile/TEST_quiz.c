@@ -6,6 +6,8 @@
 void setUp(){}
 /* Required by the unity test framework */
 void tearDown(){}
+
+// TEST CASES IN THIS ARE ALL PASSED//
 void test_edit_score(void)
 {
   //TEST_ASSERT_EQUAL_FLOAT(5.0,edit_score(5.0,"karthika"));

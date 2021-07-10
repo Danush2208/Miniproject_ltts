@@ -19,18 +19,12 @@ BUILD_DIR = Build
 SRC = src/main.c src/help.c src/edit_score.c src/reset_score.c src/show_record.c
 INC = inc/quiz.h\
 unity/unity.h unity/unity_internals.h
-#PROJECT_OUTPUT = ./a.exe
 
-#all: $(SRC) $(INC)
-#gcc $(SRC) -O $(PROJECT_OUTPUT)
-
-#run:$(PROJ_NAME)
-#./$(PROJECT_OUTPUT)
 
 TEST_SRC = testfile/TEST_quiz.c\
 unity/unity.c
 
-#INC = -Iunity
+
 
 all: $(SRC) $(BUILD_DIR)
 	gcc $(SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
@@ -52,3 +46,4 @@ coverage:
 
 clean:
 	$(RM) $(call FixPath,$(BUILD_DIR)/*) *.gcda *.gcno *.gcov
+	
