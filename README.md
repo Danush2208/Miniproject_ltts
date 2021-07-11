@@ -5,9 +5,6 @@
 |----------|:--------------:|-------:|---------------------:
 |          |                |        |  [![Code Inspector Badge](https://www.code-inspector.com/project/24938/score/svg)](https://www.code-inspector.com/project/24938/status/svg)                       
 
-CodeInspector
-
- [![Code Inspector Badge](https://www.code-inspector.com/project/24938/score/svg)](https://www.code-inspector.com/project/24938/status/svg)
 
 
 Topic : QUIZ GAME
