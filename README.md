@@ -1,6 +1,9 @@
 # Miniproject_ltts
 
-SDLC Activity Based Learning 
+# SDLC Activity Based Learning 
+| Build    |  Code Quality  |  Unity |Codacy & CodeInspector
+|----------|:--------------:|-------:|---------------------:
+|          |                |        |  [![Code Inspector Badge](https://www.code-inspector.com/project/24938/score/svg)](https://www.code-inspector.com/project/24938/status/svg)                       
 
 CodeInspector
 
