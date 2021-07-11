@@ -1,5 +1,5 @@
 
-#include"quiz.h"
+#include"../inc/quiz.h"
 #include<stdio.h>
 #include<conio.h>
 #include<ctype.h>

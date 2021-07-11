@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2021
  * 
  */
-#include"quiz.h"
+#include"../inc/quiz.h"
 #include<stdio.h>
 #include<conio.h>
 #include<ctype.h>
