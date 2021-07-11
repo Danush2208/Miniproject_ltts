@@ -1,4 +1,18 @@
 # Miniproject_ltts
+
+SDLC Activity Based Learning
+
+CodeInspector
+
+https://www.code-inspector.com/project/24938/score/svg
+
+https://www.code-inspector.com/project/24938/status/svg
+
+
+
+
+
+
 Topic : QUIZ GAME
 
 <img width="274" alt="quiz" src="https://user-images.githubusercontent.com/86143586/125155745-872e8080-e17f-11eb-9f92-f4af4e5b5ff0.PNG">
