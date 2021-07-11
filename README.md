@@ -1,9 +1,6 @@
 # Miniproject_ltts
 
-SDLC Activity Based Learning
-Build 
-
-[![C CI - Build Status on Windows.](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/c-Build-Windows.yml/badge.svg)](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/c-Build-Windows.yml)
+SDLC Activity Based Learning 
 
 CodeInspector
 
