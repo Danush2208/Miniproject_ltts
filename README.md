@@ -1,13 +1,13 @@
 # Miniproject_ltts
 
 SDLC Activity Based Learning
+Build 
+
+[![C CI - Build Status on Windows.](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/c-Build-Windows.yml/badge.svg)](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/c-Build-Windows.yml)
 
 CodeInspector
 
  [![Code Inspector Badge](https://www.code-inspector.com/project/24938/score/svg)](https://www.code-inspector.com/project/24938/status/svg)
-
-
-
 
 
 Topic : QUIZ GAME
