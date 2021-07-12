@@ -3,7 +3,7 @@
 # SDLC Activity Based Learning 
 | Build    |  Code Quality  |  Unity |Codacy & CodeInspector
 |----------|:--------------:|-------:|---------------------:
-|          |                |        |  [![Code Inspector Badge](https://www.code-inspector.com/project/24938/score/svg)](https://www.code-inspector.com/project/24938/status/svg)                       
+|   [![C Build Status.](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/C%20build.yml/badge.svg)](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/C%20build.yml)       |     [![Cppcheck-Static Code Quality Analysis](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/codequality.yml/badge.svg)](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/codequality.yml)           |    [![Unit Testing - Unity](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/unity%20testing.yml/badge.svg)](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/unity%20testing.yml)    |  [![Code Inspector Badge](https://www.code-inspector.com/project/24938/score/svg)](https://www.code-inspector.com/project/24938/status/svg)                       
 
 
 
