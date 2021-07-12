@@ -2,9 +2,9 @@ name: C Build Status.
 
 on:
   push:
-    branches: [Production]
+    branches: [main]
   pull_request:
-    branches: [Production]
+    branches: [main]
 
 jobs:
   build:
