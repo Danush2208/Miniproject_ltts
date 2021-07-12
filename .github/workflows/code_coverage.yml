@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: make code coverage
-        run: make -C 3.Implementation/ coverageCheck
+        run: make -C 3.Implementation/ coverage
       - name: Install GCov
         run: pip install gcovr
       - name: GCov only
