@@ -5,10 +5,9 @@
 |----------|:--------------:|-------:|---------------------:
 |   [![C Build Status.](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/C%20build.yml/badge.svg)](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/C%20build.yml)       |     [![Cppcheck-Static Code Quality Analysis](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/codequality.yml/badge.svg)](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/codequality.yml)           |    [![Unit Testing - Unity](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/unity%20testing.yml/badge.svg)](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/unity%20testing.yml)    |  [![Code Inspector Badge](https://www.code-inspector.com/project/24938/score/svg)](https://www.code-inspector.com/project/24938/status/svg)   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/25db56c48be647f096978d7d8a76f67a)](https://www.codacy.com/gh/karthi1155/Miniproject_ltts/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=karthi1155/Miniproject_ltts&amp;utm_campaign=Badge_Grade)                    
 
-| Git Inspector   | 
-|-----------------|
-|                 |
-
+| Code Coverage    |  Git Inspector |
+|------------------|:--------------:|
+|           [![CI-Coverage](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/code_coverage.yml/badge.svg)](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/code_coverage.yml)       |    [![Git Inspector](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/karthi1155/Miniproject_ltts/actions/workflows/Git_inspector.yml)            |
 
 ## o Folder Structure
 |       Folder        |             Description             | 
