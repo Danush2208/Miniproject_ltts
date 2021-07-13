@@ -14,7 +14,7 @@
 |       Folder        |             Description             | 
 |---------------------|:-----------------------------------:|
 |`1.Requirement`      | Requirement for the project |
-|`2.Design`           | Design Details           |
+|`2.Architecture`           | Design Details           |
 |`3.Implementation`   | Source code, Inc file, make file , unity and documentation         |
 |`4.TestPlanandOutputs`| Testing plans and outputs           |  
 |`5.Report`           | Project Report                      |
